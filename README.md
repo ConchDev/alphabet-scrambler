@@ -1,0 +1,1 @@
+<h1>The ABC order isn't the only order. They say that there is no "correct order" to the alphabet. Any order is the correct order. This program, it generates absolutely correct and acceptable ABC orders. OWY order, perhaps? Maybe OQH order? MFG order? They're all acceptable orders.</h1>
