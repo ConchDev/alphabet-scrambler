@@ -5,4 +5,4 @@ def generate_order():
     random.shuffle(alphabet)
     return "".join(alphabet)
 
- print(generate_order())
+print(generate_order())
